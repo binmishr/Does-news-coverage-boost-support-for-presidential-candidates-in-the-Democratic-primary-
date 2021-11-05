@@ -1,1 +1,4 @@
-# Does-news-coverage-boost-support-for-presidential-candidates-in-the-Democratic-primary-
+# Does-news-coverage-boost-support-for-presidential-candidates-in-the-Democratic-primary
+
+The details of the codeset and plots are included in the attached Microsoft Word Document (.docx) file in this repository. 
+You need to view the file in "Read Mode" to see the contents properly after downloading the same.
